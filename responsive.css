@@ -5,6 +5,9 @@
         flex: 0 0 50%;
         max-width: 50%;
     }
+    .effect-5{
+        right: 50px;
+    }
 }
 
 @media(max-width:767px){
@@ -33,7 +36,10 @@
         left: 15%;
     }
     .effect-5{
-        right: 4%;
+        right: 26%;
+        top: 16%;
+        height: 300px;
+        width: 300px;
     }
     .about-section .about-img{
         padding-bottom: 30px;
