@@ -423,7 +423,7 @@ img{
     font-size: 20px;
     font-weight: 600;
     color: var(--text-black-600);
-    margin: 10px 0 15px 0;
+    margin: 10px 0 15px 0px;
     text-transform: capitalize;
 }
 .home-section .home-img .img-box{
@@ -1198,4 +1198,9 @@ img{
 }
 #bold{
     font-weight: bold;
+}
+
+#element{
+    font-size: 30px;
+    font-weight: 600;
 }
